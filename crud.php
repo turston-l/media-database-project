@@ -1,16 +1,5 @@
 <?php
 /*******************************************************************************
-    crud.php by Bill Weinman <https://bw.org/contact/>
-
-    CRUD: Create, Read, Update, Delete --  Database example
-
-    *** This application and its related files are
-        provided with no warranty and no support. 
-
-    Copyright (c) 2009-2019 The BearHeart Group LLC
-
-    Permission is granted for personal use.
-    Do not remove copyright or attribution.
 
     1.1 bw - 2009-04-22 - Updated to work with PHP warnings turned on
     2.0.0 bw -- 2010-08-09 - Support for SQLite
