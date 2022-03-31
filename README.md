@@ -1,2 +1,2 @@
-# media-database-project
+# Media Database Project
 Building a Media Database
